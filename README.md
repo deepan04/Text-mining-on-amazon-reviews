@@ -5,15 +5,15 @@ Also, analyzed user queries which highlights common queries that most users face
 Mine large chunk of textual review which concedes about qualities that most baby products lacks
 
 # Resources Used:
-Weka
-Python
-NLTK library for stemming and filtering stop words
-Scikit package for using Term frequency - Inverse document frequency --- it gives score to each word by comparing each document or reviews
+Weka,
+Python,
+NLTK library for stemming and filtering stop words,
+Scikit package for using Term frequency - Inverse document frequency --- it gives score to each word by comparing each document or reviews,
 Pandas library for pre processing the data
 
 # Models Used
-Decision Tree
-Random Forest
+Decision Tree,
+Random Forest,
 Association Rule Mining
 
 # For more details refer the report in doc folder
